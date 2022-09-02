@@ -3,7 +3,7 @@
 
 - 🌱 Me encuentro estudiando **Programacion web con Python.**
 
-- 📫 How to reach me **dariobralo@gmail.com**
+- 📫 Mail de contacto: **dariobralo@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
